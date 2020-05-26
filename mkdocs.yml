@@ -3,6 +3,8 @@ site_name: Dagny R. Deutchman
 nav:
   - Home: index.md
   - Blog: blog.md
+  plugins:
+    - Blog
   - Publications: publications.md
   - Professional Work: work.md
   - CV/Resume: cv.md
