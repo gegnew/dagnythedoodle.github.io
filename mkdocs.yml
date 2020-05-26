@@ -1,0 +1,12 @@
+site_name: Dagny R. Deutchman
+
+nav:
+  - Home: index.md
+  - Blog: blog.md
+  - Publications: publications.md
+  - Professional Work: work.md
+  - CV/Resume: cv.md
+  - Contact: contact.md
+
+theme:
+  name: slate
